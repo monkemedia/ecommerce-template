@@ -22,7 +22,7 @@
     "@moltin/sdk": "^3.23.0",
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/bulma": "^1.2.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
     "sass-loader": "^7.1.0",
     "sass-rem": "^2.0.1"
